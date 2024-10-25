@@ -1,7 +1,7 @@
 ## Soroban Payment & Messaging System
 A smart contract built on Soroban that enables XLM payments with attached messages and multi-recipient transfers. This system allows users to send payments, attach messages to transactions, and view their transaction history on the Stellar network.
-Features
 
+## Features
 💸 Single Payment: Send XLM to individual recipients with optional messages
 🔄 Multi-recipient Transfer: Send XLM to multiple recipients in a single transaction
 💬 Message Attachment: Attach messages to your payments
