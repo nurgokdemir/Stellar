@@ -2,12 +2,44 @@
 A smart contract built on Soroban that enables XLM payments with attached messages and multi-recipient transfers. This system allows users to send payments, attach messages to transactions, and view their transaction history on the Stellar network.
 
 ## Features
-💸 Single Payment: Send XLM to individual recipients with optional messages
-🔄 Multi-recipient Transfer: Send XLM to multiple recipients in a single transaction
-💬 Message Attachment: Attach messages to your payments
-📊 Balance Checking: Check XLM balance for any address
-📜 Transaction History: View complete history of sent and received payments
-🔍 Payment Summary: Access summaries of multi-recipient payments
+<div class="features-container">
+  <!-- Single Payment -->
+  <div class="feature-card">
+    <h2>💸 Single Payment</h2>
+    <p>Send XLM to individual recipients with optional messages.</p>
+  </div>
+
+  <!-- Multi-recipient Transfer -->
+  <div class="feature-card">
+    <h2>🔄 Multi-recipient Transfer</h2>
+    <p>Send XLM to multiple recipients in a single transaction.</p>
+  </div>
+
+  <!-- Message Attachment -->
+  <div class="feature-card">
+    <h2>💬 Message Attachment</h2>
+    <p>Attach messages to your payments.</p>
+  </div>
+
+  <!-- Balance Checking -->
+  <div class="feature-card">
+    <h2>📊 Balance Checking</h2>
+    <p>Check XLM balance for any address.</p>
+  </div>
+
+  <!-- Transaction History -->
+  <div class="feature-card">
+    <h2>📜 Transaction History</h2>
+    <p>View complete history of sent and received payments.</p>
+  </div>
+
+  <!-- Payment Summary -->
+  <div class="feature-card">
+    <h2>🔍 Payment Summary</h2>
+    <p>Access summaries of multi-recipient payments.</p>
+  </div>
+</div>
+
 
 ## Prerequisites
 
