@@ -32,12 +32,6 @@ A smart contract built on Soroban that enables XLM payments with attached messag
     <h2>📜 Transaction History</h2>
     <p>View complete history of sent and received payments.</p>
   </div>
-
-  <!-- Payment Summary -->
-  <div class="feature-card">
-    <h2>🔍 Payment Summary</h2>
-    <p>Access summaries of multi-recipient payments.</p>
-  </div>
 </div>
 
 
