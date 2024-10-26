@@ -46,7 +46,7 @@ Installation
 
 1.Clone the repository:
 
-```git clone https://github.com/yourusername/soroban-payment-messaging.git```
+```git clone https://github.com/yourusername/soroban-payment-messaging.git```     
 ```cd Stellar```
 
 2.Install Soroban CLI if you haven't already:
