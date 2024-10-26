@@ -50,16 +50,19 @@ Node.js and npm (for running the test suite)
 
 Installation
 
-Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/yourusername/soroban-payment-messaging.git
-cd soroban-payment-messaging
+cd Stellar
 
-Install Soroban CLI if you haven't already:
+2.Install Soroban CLI if you haven't already:
 cargo install --locked soroban-cli@21.7.3
 
-Build the contract:
+3.Build the contract:
 cargo build --release
 
-Testing : 
+4.Run the application:
+cargo run
+
+5.Testing: 
 cargo test
